@@ -7,7 +7,7 @@
 
 ## Iteration 1 (Tests Provided)
 
-Use TDD to create a `Person` class that responds to the following interaction pattern:
+Use TDD to create a `Person` class that responds to the following interaction pattern. A Person is considered an adult if they are age 18 and above.
 
 ```ruby
 require './lib/person'
