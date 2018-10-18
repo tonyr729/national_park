@@ -22,7 +22,7 @@ pry(main)> charlie.name
 pry(main)> charlie.age
 #=> 18
 
-pry(main)> charlie.over_18?
+pry(main)> charlie.adult?
 #=> true
 ```
 
